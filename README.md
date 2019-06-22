@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
 ```bash
 pip install -r requirements.txt
 ```
-2) Run the "Get2Phylosophy.py" script from cmd and watch the results displayed on the cmd.
+2) Run the "Get2Philosophy.py" script from cmd and watch the results displayed on the cmd.
 ## Notes:
 * This is a challenge task by Widebot company. (https://widebot.net/)
 * I didn't have any previous experience with HTML, so to accomplish the task i had to take a 5 hours HTML crash course online and to watch a playlist on youtube about Web scraping.
